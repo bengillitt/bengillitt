@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on personal projects
-👯 I’m looking to collaborate on exciting projects
-📫 How to reach me: email: bengillitt@gmail.com discord: bengillitt
+- 🔭 I’m currently working on personal projects
+- 👯 I’m looking to collaborate on exciting projects
+- 📫 How to reach me: email: bengillitt@gmail.com discord: bengillitt
