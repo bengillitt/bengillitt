@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects
 - 👯 I’m looking to collaborate on exciting projects
-- 📫 How to reach me: email: bengillitt@gmail.com discord: bengillitt
+- 📫 How to reach me: discord: bengillitt
 - ⚡ Fun fact: I started properly programming in 2023
